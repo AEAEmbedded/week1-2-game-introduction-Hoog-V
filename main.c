@@ -12,6 +12,6 @@ int main()
    int NumberOfGeusses = 5;
    printf("Welcome to the guessing game!\n");
    // This is just a start, add alle the lines as mentioned in the assignment
-   // hakjbrkjs
+   //
    return 0;
 }

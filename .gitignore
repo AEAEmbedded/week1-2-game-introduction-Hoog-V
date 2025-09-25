@@ -132,3 +132,8 @@ main
 
 # Build directories
 gameweek1/
+
+# Build directory
+build/
+
+.env/
